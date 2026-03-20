@@ -35,6 +35,7 @@ characteristics
 ## Simulation diagram:
 <img width="1839" height="820" alt="Screenshot 2026-03-20 171549" src="https://github.com/user-attachments/assets/f6d28c6f-f70a-4433-aa6b-03e5393b1b87" />
 <img width="730" height="776" alt="Screenshot 2026-03-20 171304" src="https://github.com/user-attachments/assets/dc282803-9357-4690-8281-b82b6340b63d" />
+
 ## Output graph:
 <img width="1814" height="812" alt="Screenshot 2026-03-20 171429" src="https://github.com/user-attachments/assets/d020aaca-6f3f-472e-9d14-0c03b6aa2578" />
 <img width="1828" height="814" alt="Screenshot 2026-03-20 171444" src="https://github.com/user-attachments/assets/98a9edfa-88fe-41da-856c-d34a06c2732a" />
